@@ -141,7 +141,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
-##AUTHORS
 
-#MRS FUMILAYO
-#Damilola  
+<Authors>
+👤 Oluwadamilola Ogunbayo
+👤 Mrs Fumilayo
